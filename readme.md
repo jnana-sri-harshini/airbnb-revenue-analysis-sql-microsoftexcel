@@ -53,11 +53,11 @@ The dashboard helps uncover insights that can assist hosts, property managers, a
 ---
 <h2><a class="anchor" id="tools-used"></a>Tools Used</h2>
 
--**Database**: MySQL
--**Data Source**: Bank Customer Churn Dataset
--**Query Tool**: MySQL Workbench
--**Visualization Tool**: Microsoft Excel (Advanced Dashboard with Pivot Tables & Charts)
--**Language**: SQL
+- **Database**: MySQL
+- **Data Source**: Bank Customer Churn Dataset
+- **Query Tool**: MySQL Workbench
+- **Visualization Tool**: Microsoft Excel (Advanced Dashboard with Pivot Tables & Charts)
+- **Language**: SQL
 
 ---
 <h2><a class="anchor" id="database-design"></a>Database Design</h2>
@@ -218,4 +218,5 @@ Understanding cancellation patterns helps hosts balance booking flexibility with
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
 **MJS Harshini**
+
 Email: harshinimogadala@gmail.com
